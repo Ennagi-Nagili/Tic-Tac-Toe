@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ennagi-Nagili/Tic-Tac-Toe.git/static/css/main.ef076756.css",
+    "main.js": "/Ennagi-Nagili/Tic-Tac-Toe.git/static/js/main.6abd8c32.js",
+    "static/js/787.4bc435fe.chunk.js": "/Ennagi-Nagili/Tic-Tac-Toe.git/static/js/787.4bc435fe.chunk.js",
+    "index.html": "/Ennagi-Nagili/Tic-Tac-Toe.git/index.html",
+    "main.ef076756.css.map": "/Ennagi-Nagili/Tic-Tac-Toe.git/static/css/main.ef076756.css.map",
+    "main.6abd8c32.js.map": "/Ennagi-Nagili/Tic-Tac-Toe.git/static/js/main.6abd8c32.js.map",
+    "787.4bc435fe.chunk.js.map": "/Ennagi-Nagili/Tic-Tac-Toe.git/static/js/787.4bc435fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef076756.css",
+    "static/js/main.6abd8c32.js"
+  ]
+}
