@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Square } from "./Square";
 
-export const Board = () => {
+export const Two = () => {
   const [squares, setSquares] = useState(Array(9).fill(null));
   const [xIsNext, setXIsNext] = useState(true);
 

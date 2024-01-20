@@ -74,7 +74,6 @@ body {
 .board {
   display: flex;
   justify-content: center;
-  margin-top: 48px;
 }
 
 .board-row:after {
@@ -109,4 +108,33 @@ body {
 .btn {
   display: flex;
   justify-content: center;
+}
+
+.home {
+  height: 94.3vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header {
+  font-size: 72px;
+  text-align: center;
+}
+
+.choices {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 48px;
+}
+
+.choice {
+  padding: 8px 64px;
+  font-size: 36px;
+  cursor: pointer;
+}
+
+.choice:hover {
+  background: lightgray;
 }

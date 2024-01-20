@@ -1,10 +1,18 @@
 import React from 'react';
 import './App.css';
-import {Board} from './components/Board';
+import {One} from './components/One';
+import {Two} from "./components/Two"
+import { Route, Routes } from 'react-router-dom';
+import { Home } from './components/Home';
 
 function App() {
   return (
-    <Board/>
+    <Routes>
+      <Route path='/' element={<Home/>}/>
+      <Route path='home' element={<Home/>}/>
+      <Route path='one' element={<One/>}/>
+      <Route path='two' element={<Two/>}/>
+    </Routes>
   );
 }
 
